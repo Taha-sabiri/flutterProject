@@ -1,4 +1,4 @@
-# miniproject
+# exchange project
 
 A new Flutter project.
 
