@@ -1,3 +1,3 @@
 # flutterProject
 
-1- exchange project 💸
+- exchange project 💸
