@@ -12,7 +12,7 @@ Screenshot of the travel app 📱
 ______________________________________
 
 
-![project](https://uupload.ir/view/ezgif.com-video-to-gif_auqn.mov/)
+![project](https://s8.uupload.ir/files/ezgif.com-video-to-gif-2_z17v.gif)
 
 
 
